@@ -1,0 +1,20 @@
+#!RESULT OK
+#!CONNECTION ldap://WDCPKIUSON1.uson.pkicorp.pkimck.com:636
+#!DATE 2018-04-16T16:45:31.678
+dn: CN=PetyA,OU=O365_MARKET,OU=O365UserType,OU=Workday_Test,DC=uson,DC=pkico
+ rp,DC=pkimck,DC=com
+objectClass: user
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: PetyA
+instanceType: 4
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=pkicorp,DC=pkimck,DC
+ =com
+displayName: PetyA
+distinguishedName: CN=PetyA,OU=O365_MARKET,OU=O365UserType,OU=Workday_Test,D
+ C=uson,DC=pkicorp,DC=pkimck,DC=com
+sAMAccountName: PetyA
+userPrincipalName: o365testuserwe1@usontestcustomer3.onmicrosoft.com
+
+
